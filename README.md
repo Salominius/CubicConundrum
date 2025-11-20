@@ -11,8 +11,9 @@ A 3D puzzle game built with Vulkan and C++.
 1. Install Vulkan SDK from https://vulkan.lunarg.com/
 2. Download GLFW from https://www.glfw.org/
 3. Clone this repo
-4. Update paths in cubicConundrum.cmd
-5. Run: `.\cubicConundrum.cmd`
+4. Update include paths in cubicConundrum.cpp
+5. Update paths in cubicConundrum.cmd
+6. Run: `.\cubicConundrum.cmd`
 
 ## Controls
 - WASD: Move the dice
