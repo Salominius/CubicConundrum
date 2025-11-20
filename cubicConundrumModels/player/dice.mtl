@@ -1,0 +1,5 @@
+# Blender MTL File: 'dice.blend'
+# Material Count: 1
+
+newmtl Material
+map_Kd dice.png
